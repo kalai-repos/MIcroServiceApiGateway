@@ -1,0 +1,16 @@
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\appsettings.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\configuration.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+C:\sample projec\ocelot-gateway-sample\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb
+C:\sample projec\ocelot-gateway-sample\Gateway\obj\Debug\netcoreapp2.2\Gateway.genruntimeconfig.cache

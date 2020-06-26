@@ -1,0 +1,29 @@
+services:
+  gateway:
+    build:
+      context: C:\sample projec\ocelot-gateway-sample\Gateway
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: gateway
+    ports:
+    - 80/tcp
+  servicea:
+    build:
+      context: C:\sample projec\ocelot-gateway-sample\ServiceA
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: servicea
+    ports:
+    - 80/tcp
+  serviceb:
+    build:
+      context: C:\sample projec\ocelot-gateway-sample\ServiceB
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: serviceb
+    ports:
+    - 80/tcp
+version: '3.0'

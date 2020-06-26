@@ -1,0 +1,15 @@
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\appsettings.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\ServiceA.deps.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\ServiceA.runtimeconfig.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\ServiceA.runtimeconfig.dev.json
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\ServiceA.dll
+C:\sample projec\ocelot-gateway-sample\ServiceA\bin\Debug\netcoreapp2.0\ServiceA.pdb
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.csprojAssemblyReference.cache
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.AssemblyInfoInputs.cache
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.AssemblyInfo.cs
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.csproj.CoreCompileInputs.cache
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.dll
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.pdb
+C:\sample projec\ocelot-gateway-sample\ServiceA\obj\Debug\netcoreapp2.0\ServiceA.genruntimeconfig.cache
